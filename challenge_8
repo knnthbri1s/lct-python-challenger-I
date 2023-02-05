@@ -1,0 +1,5 @@
+day = int(input("Enter the number of days: "))
+print(f"In {day} days there are...")
+print(f"{day*24} total hours")
+print(f"{day*24*60} total minutes")
+print(f"{day*24*60*60} total seconds")
