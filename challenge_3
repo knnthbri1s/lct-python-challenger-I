@@ -1,0 +1,4 @@
+FirstName = input("Please enter your name : ")
+favlan = input("What is your favorite programming language? ")
+print(f"Hello! {FirstName}")
+print(f"Let's learn {favlan}!")
