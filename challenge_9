@@ -1,0 +1,4 @@
+day = int(input("Enter the number of years: "))
+print(f"In {day} year there are...")
+print(f"total of {day*12} months")
+print(f"total of {day*365} days")
