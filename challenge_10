@@ -1,0 +1,3 @@
+bill = float(input("how much is the total bill? "))
+diners = int(input("how many diners are there? "))
+print(f"Each diner should pay P {bill/diners} each")
