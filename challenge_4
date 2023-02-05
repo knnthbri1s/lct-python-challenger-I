@@ -1,0 +1,4 @@
+FirstName = input("Please enter your first name : ")
+Surname = input("Please enter your surname: ")
+print(f"Hello {FirstName} {Surname}")
+print("Welcome to programming!")
